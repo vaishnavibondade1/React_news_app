@@ -1,0 +1,28 @@
+.card {
+  border: 1px solid #f1eeee;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  background-color: #f0f2ee3c;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.card-text {
+  font-size: 14px;
+  color: #666;
+}
+
+.card-link {
+  color: #333;
+  text-decoration: none; /* Remove underline from links */
+}
+
+.card-link:hover {
+  color: #007bff; /* Change link color on hover */
+}
